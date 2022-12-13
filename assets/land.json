@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "land.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 840,
+				"h": 420
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "grass.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 420
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 420
+					}
+				},
+				{
+					"filename": "wood.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 420,
+						"h": 420
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 420,
+						"h": 420
+					},
+					"frame": {
+						"x": 420,
+						"y": 0,
+						"w": 420,
+						"h": 420
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:4193bbb11aa80d50de8264aac4bfba35:38c97049206a69dba72eb08c52e1c481:d9f5beec598539332b4714d5022a5cd8$"
+	}
+}
